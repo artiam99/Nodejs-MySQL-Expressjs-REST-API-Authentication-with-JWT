@@ -1,6 +1,6 @@
 # Nodejs-MySQL-Express-REST-API-Authentication-with-JWT
 
-This is a simple Nodejs-MySQL-Express REST API for user authentication with jwt token
+This is a simple Nodejs-MySQL-Express REST API for user authentication with Json Web Token
 
 Add User - 
 
